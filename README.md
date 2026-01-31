@@ -1,5 +1,5 @@
 # Hey, I'm Jahidul Islam Sajib
-CSE | Theses in progress |
+CSE Student| Theses in progress |
 I am Learning these technologies.
 ## 🧰 Tech
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
